@@ -25,13 +25,13 @@ When the SW and SHDN signals are wired to MCU IO, end-user developed code can cl
 | Package | USP-8B06 (2.0 x 2.0 x h0.33mm) |
 
 ## The Micro Foundry XC6194A Breakout
-This is a practical application of the XC6194A IC with Micro USB connectors for VIn/VOut/Pass-through D+/D-, a JST SH style connector to provide IO access to the XC6194A functions, essential passive components required for basic operation and voltage-in/voltage-out LEDs. An additional 1.0mm pitch FFC connector offers expansion capabilities for optional breakout PCBs with features like voltage level signal translation and the ability to drive up to 3 LEDs for RGB momentarty switches such as those sold by Adafruit. The PCB is 26x26 mm with 4x 2.5mm mounting holes.
+This is a practical application of the XC6194A IC with Micro USB connectors for VIn/VOut/USB pass-through, a JST SH style connector to provide IO access to the XC6194A functions, essential passive components required for basic operation and voltage-in/voltage-out LEDs. An additional 1.0mm pitch FFC connector offers expansion capabilities for optional breakout PCBs with features like voltage level signal translation and the ability to drive up to 3 LEDs for RGB momentarty switches such as those sold by Adafruit. The PCB is 26x26 mm with 4x 2.5mm mounting holes.
 
 ## Pinouts
 ### VIn/VOut
 - VIn or VOut
 - GND
-- USB Pass-through D+/D-
+- USB Pass-through
 ### IO
 1. VIn  - Voltage In 
 2. GND  - Ground
